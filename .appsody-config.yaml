@@ -1,0 +1,3 @@
+id: "20201029151032.71723800"
+project-name: yo-world
+stack: docker.io/kabanero/nodejs-express:0.4
