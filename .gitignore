@@ -88,3 +88,4 @@ typings/
 .dynamodb/
 
 .vscode
+github-token.txt
